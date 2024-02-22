@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T04:32:02.022Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="23.1.5" etag="xMC6T6CHy8FmdTy0JXvW" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T04:36:39.149Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PcYJg2k3mwK1qosPAaPY" version="23.1.5" type="github">
   <diagram name="Page-1" id="d4IhMq_CG_GZfpvDpSVi">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wSQvO-TXLfBxeHZUAKMH-1" value="Flyout &lt;br&gt;Modal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wSQvO-TXLfBxeHZUAKMH-2" value="Mini Cart&lt;br&gt;Modal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wSQvO-TXLfBxeHZUAKMH-3" value="Cart&amp;nbsp;&lt;br&gt;Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wSQvO-TXLfBxeHZUAKMH-4" value="Contact Details&lt;br&gt;Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wSQvO-TXLfBxeHZUAKMH-5" value="Checkout&amp;nbsp;&lt;br&gt;Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="584.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wSQvO-TXLfBxeHZUAKMH-7" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wSQvO-TXLfBxeHZUAKMH-8" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wSQvO-TXLfBxeHZUAKMH-9" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="390" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wSQvO-TXLfBxeHZUAKMH-10" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wSQvO-TXLfBxeHZUAKMH-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Cart and Checkout User screens flow&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="144" y="30" width="420" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
